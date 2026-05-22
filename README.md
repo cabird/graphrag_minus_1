@@ -1,8 +1,8 @@
-# GraphRAG-1
+# GraphRAG-minus-1
 
 > *The world's most naive GraphRAG implementation. A step backwards in retrieval-augmented generation.*
 
-GraphRAG-1 is what happens when you take every shortcut possible while building a graph-based RAG system. It "works" in the loosest sense of the word.
+GraphRAG-minus-1 is what happens when you take every shortcut possible while building a graph-based RAG system. It "works" in the loosest sense of the word.
 
 ## Features
 
